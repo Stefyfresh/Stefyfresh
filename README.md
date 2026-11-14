@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello! I am Stefy, or Stefyfresh!
+
+I code sometimes
+
+I like UNBEATABLE! go play it it's peak
 
 <!--
 **Stefyfresh/Stefyfresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
